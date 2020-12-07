@@ -21,7 +21,7 @@
 
 6以上の数字が入力された場合、点滅をしないでカーネルにメッセージを出力する。
 
-    $ echo 2 > /dev/myled0
+    $ echo 6 > /dev/myled0
 
  # 実行参考動画
 https://youtu.be/vp-5vF9OgAc
