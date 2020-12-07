@@ -9,7 +9,7 @@
 
 # 実行方法
     $ git clone https://github.com/aprsoshan/RobotDeviceDriver-.git
-    $ cd RobotDeviceDriver-
+    $ cd RobotDeviceDriver-/src
     $ make
     $ sudo insmod myled.ko
     $ sudo chmod 666 /dev/myled0
