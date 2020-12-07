@@ -13,3 +13,19 @@
     $ make
     $ sudo insmod myled.ko
     $ sudo chmod 666 /dev/myled0
+
+ # 説明
+5以下の数字が入力された場合、入力した数字の数だけLEDを点滅させる。
+
+    & echo 1 > /dev/myled0
+
+6以上の数字が入力された場合、点滅をしないでカーネルにメッセージを出力する。
+
+    $ echo 2 > /dev/myled0
+
+ # 実行参考動画
+https://youtu.be/vp-5vF9OgAc
+
+ # License]
+ GPLv3 license
+ 
