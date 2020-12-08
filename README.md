@@ -23,6 +23,10 @@
 
     $ echo 6 > /dev/myled0
 
+終了時、モジュールのアンインストールを行う。
+
+    $ sudo rmmod myled
+
  # 実行参考動画
 https://youtu.be/vp-5vF9OgAc
 
