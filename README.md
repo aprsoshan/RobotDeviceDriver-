@@ -30,6 +30,6 @@
  # 実行参考動画
 https://youtu.be/vp-5vF9OgAc
 
- # License]
+ # License
  GPLv3 license
  
